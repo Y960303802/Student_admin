@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Class-Path: el-api.jar jasper.jar jsp-api.jar catalina.jar ecj-4.6.3.j
+ ar jasper-el.jar jaspic-api.jar tomcat-api.jar tomcat-jni.jar catalin
+ a-ha.jar servlet-api.jar tomcat-dbcp.jar tomcat-jdbc.jar tomcat-util.
+ jar catalina-ant.jar tomcat-coyote.jar websocket-api.jar tomcat-i18n-
+ es.jar tomcat-i18n-fr.jar tomcat-i18n-ja.jar annotations-api.jar cata
+ lina-tribes.jar tomcat-util-scan.jar tomcat-websocket.jar catalina-st
+ oreconfig.jar jstl-impl.jar junit-4.12.jar druid-1.0.9.jar c3p0-0.9.1
+ .2.jar hamcrest-core-1.3.jar commons-logging-1.1.1.jar javax.servlet.
+ jsp.jstl.jar commons-beanutils-1.8.3.jar spring-tx-4.2.4.RELEASE.jar 
+ spring-core-4.2.4.RELEASE.jar spring-jdbc-4.2.4.RELEASE.jar spring-be
+ ans-4.2.4.RELEASE.jar mysql-connector-java-5.1.18-bin.jar junit-4.12.
+ jar hamcrest-core-1.3.jar
+
